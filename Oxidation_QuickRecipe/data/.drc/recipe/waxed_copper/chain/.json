@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": true,
+  "category": "building",
+  "ingredients": [
+    "minecraft:waxed_copper_chain",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "minecraft:waxed_exposed_copper_chain",
+    "count": 1
+  }
+}

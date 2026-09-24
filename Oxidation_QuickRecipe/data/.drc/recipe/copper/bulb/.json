@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": true,
+  "category": "building",
+  "ingredients": [
+    "minecraft:copper_bulb",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "minecraft:exposed_copper_bulb",
+    "count": 1
+  }
+}

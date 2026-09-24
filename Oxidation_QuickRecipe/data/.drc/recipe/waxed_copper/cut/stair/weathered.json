@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": true,
+  "category": "building",
+  "ingredients": [
+    "minecraft:waxed_weathered_cut_copper_stairs",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "minecraft:waxed_oxidized_cut_copper_stairs",
+    "count": 1
+  }
+}

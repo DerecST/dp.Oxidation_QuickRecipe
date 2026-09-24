@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": true,
+  "category": "building",
+  "ingredients": [
+    "minecraft:waxed_exposed_copper_golem_statue",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "minecraft:waxed_weathered_copper_golem_statue",
+    "count": 1
+  }
+}

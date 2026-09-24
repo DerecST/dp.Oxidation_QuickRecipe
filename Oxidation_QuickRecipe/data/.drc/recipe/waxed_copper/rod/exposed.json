@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": true,
+  "category": "building",
+  "ingredients": [
+    "minecraft:waxed_exposed_lightning_rod",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "minecraft:waxed_weathered_lightning_rod",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "show_notification": true,
+  "category": "building",
+  "ingredients": [
+    "minecraft:exposed_copper",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "minecraft:weathered_copper",
+    "count": 1
+  }
+}
